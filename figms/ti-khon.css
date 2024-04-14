@@ -1,0 +1,10 @@
+.ti-khon14 {
+  width: 141px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 200;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
